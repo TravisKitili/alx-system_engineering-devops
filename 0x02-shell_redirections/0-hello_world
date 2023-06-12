@@ -1,3 +1,2 @@
 #!/bin/bash
-name='world'
-echo "Hello $name"
+echo "Hello World "
